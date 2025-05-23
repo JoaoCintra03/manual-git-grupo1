@@ -60,3 +60,4 @@ Se aparecer a versão do Git, tá tudo certo.
 
 Pronto! Agora o Git está instalado e configurado no seu computador. Pode começar a usar pra criar seus projetos e trabalhar junto com outras pessoas.
 
+<!-- Linha adicionada para registrar alteração -->
