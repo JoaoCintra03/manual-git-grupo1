@@ -1,6 +1,6 @@
 Manual Git
 
-Aqui veremos alguns tópicos importantes para o funcionamento do Github
+Aqui veremos alguns tópicos importantes para o funcionamento do Github com maestria
 
 João Victor https://github.com/JoaoCintra03 [Readme](README.md)
 
